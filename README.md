@@ -1,2 +1,2 @@
 # windmill-public
-Public repository for Windmill feedback. Submit tickets here
+Public repository for Windmill feedback. Please submit issues here!
